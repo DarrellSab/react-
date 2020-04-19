@@ -12,7 +12,7 @@ The next picture shows how you can search by name and we can ignore lower or upp
 
 The third picture shows how we can search by birthday:
 
-!By birthday](/pictures/serach_by_birthday_table.png)
+![By birthday](/pictures/serach_by_birthday_table.png)
 
 The fourth picture shows how will be look an table when you input wrong data:
-!By birthday](/pictures/wrong_input_table.png)
+![By birthday](/pictures/wrong_input_table.png)
